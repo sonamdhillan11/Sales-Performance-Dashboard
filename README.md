@@ -138,6 +138,10 @@ The dashboard can be used to:
 
 ![Total Orders and Map](screenshots/map.png)
 
+### slicers
+
+![Slicers](screenshots/slicers.png)
+
 ## 📂 Project Structure
 
 ```text
