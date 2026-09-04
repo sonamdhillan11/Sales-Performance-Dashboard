@@ -120,23 +120,23 @@ The dashboard can be used to:
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](screenshots/dashboard.png)
 
 ### Top / Bottom Analysis
 
-![Top Bottom Analysis](top_bottom.png)
+![Top Bottom Analysis](screenshots/top-bottom.png)
 
 ### Net Sales with Time
 
-![Net Sales with Time](sales_with_time.png)
+![Net Sales with Time](screenshots/sales_with_time.png)
 
 ### Sales with Profit
 
-![Sales with Profit](sales_with_profit.png)
+![Sales with Profit](screenshots/sales_with_profit.png)
 
 ### Total Orders & Map
 
-![Total Orders and Map](map.png)
+![Total Orders and Map](screenshots/map.png)
 
 ## 📂 Project Structure
 
@@ -150,7 +150,7 @@ Sales-Performance-Dashboard/
 │
 └── Screenshots/
     ├── dashboard.png
-    ├── top_bottom.png
-    ├── net_sales_with_time.png
-    ├── sales_with_profit.png
-    └── orders_map.png
+    ├── top-bottom.png
+    ├── sales with time.png
+    ├── sales with profit.png
+    └── map.png
