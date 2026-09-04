@@ -128,11 +128,11 @@ The dashboard can be used to:
 
 ### Net Sales with Time
 
-![Net Sales with Time](sales with time.png)
+![Net Sales with Time](sales_with_time.png)
 
 ### Sales with Profit
 
-![Sales with Profit](sales with profit.png)
+![Sales with Profit](sales_with_profit.png)
 
 ### Total Orders & Map
 
