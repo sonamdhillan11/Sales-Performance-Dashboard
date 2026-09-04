@@ -124,15 +124,15 @@ The dashboard can be used to:
 
 ### Top / Bottom Analysis
 
-![Top Bottom Analysis](top_bottom.png)
+![Top Bottom Analysis](top-bottom.png)
 
 ### Net Sales with Time
 
-![Net Sales with Time](sales_with_time.png)
+![Net Sales with Time](sales with time.png)
 
 ### Sales with Profit
 
-![Sales with Profit](sales_with_profit.png)
+![Sales with Profit](sales with profit.png)
 
 ### Total Orders & Map
 
@@ -150,7 +150,7 @@ Sales-Performance-Dashboard/
 │
 └── Screenshots/
     ├── dashboard.png
-    ├── top_bottom.png
-    ├── net_sales_with_time.png
-    ├── sales_with_profit.png
-    └── orders_map.png
+    ├── top-bottom.png
+    ├── sales with time.png
+    ├── sales with profit.png
+    └── map.png
