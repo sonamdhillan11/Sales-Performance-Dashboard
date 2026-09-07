@@ -158,3 +158,12 @@ Sales-Performance-Dashboard/
     ├── sales with time.png
     ├── sales with profit.png
     └── map.png
+```
+
+## 👩‍💻 Author
+
+**Sonam Dhillan**
+
+Aspiring Data Analyst
+
+**Skills:** SQL | Power BI | DAX | Excel | Python | Data Analytics
